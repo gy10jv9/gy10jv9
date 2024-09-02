@@ -1,7 +1,6 @@
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExamdpZzQ0b3g3dW5oenR0aDZwYjZob3E4ejN3MzY2NmZ4aXRoZHJzdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YMM6g7x45coCKdrDoj/giphy.gif" width="100"/>
-</div>
-https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExamdpZzQ0b3g3dW5oenR0aDZwYjZob3E4ejN3MzY2NmZ4aXRoZHJzdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YMM6g7x45coCKdrDoj/giphy.gif
+  Hello There!
 
 <!--
 **gy10jv9/gy10jv9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
